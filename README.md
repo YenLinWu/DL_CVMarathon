@@ -8,6 +8,16 @@
 | [*圖片的幾何轉換: 翻轉、縮放、平移*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_004.pdf) | [Day_004_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_004_HW.ipynb) | [Day_004_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_004_HW_Output) |
 | [*OpenCV 小畫家功能實作*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_005.pdf) | [Day_005_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_005_HW.ipynb) | [Day_005_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_005_HW_Output) |
 | [*仿射轉換( Affine Transformation )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_006.pdf) | [Day_006_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_006_HW.ipynb) | [Day_006_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_006_HW_Output) |
+| [*透視變換( Perspective Transformation )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_007.pdf) | [Day_007_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_007_HW.ipynb) | [Day_007_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_007_HW_Output) |
+| [*透視變換( Perspective Transformation )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_007.pdf) | [Day_007_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_007_HW.ipynb) | [Day_007_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_007_HW_Output) |
+| [*模糊\邊緣檢測( Blur\Edge Detection )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_008.pdf) | [Day_008_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_008_HW.ipynb) | [Day_008_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_008_HW_Output) |
+
+
+
+
+
+
+
 
 
 
