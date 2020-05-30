@@ -6,5 +6,10 @@
 | [*RGB, LAB, HSV 介紹*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_002.pdf) | [Day_002_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_002_HW.ipynb) | [Day_002_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_002_HW_Output) |
 | [*直⽅方圖均衡( Histogram Equalization )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_003.pdf) | [Day_003_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_003_HW.ipynb) | [Day_003_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_003_HW_Output) |
 | [*圖片的幾何轉換: 翻轉、縮放、平移*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_004.pdf) | [Day_004_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_004_HW.ipynb) | [Day_004_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_004_HW_Output) |
+| [*OpenCV 小畫家功能實作*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_005.pdf) | [Day_005_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_005_HW.ipynb) | [Day_005_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_005_HW_Output) |
+| [*仿射轉換( Affine Transformation )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_006.pdf) | [Day_006_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_006_HW.ipynb) | [Day_006_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_006_HW_Output) |
+
+
+
 
 
