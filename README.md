@@ -15,12 +15,16 @@
 | [*尺度不變特徵變換( Scale Invariant Feature Transform, SIFT )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_009.pdf) | [Day_009_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_009_HW.ipynb) | [Day_009_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_009_HW_Output) |
 | [*SIFT 實作圖像特徵蠻力匹配( Brute-Force Matching )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_010.pdf) | [Day_010_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_010_HW.ipynb) | [Day_010_Output](https://github.com/YenLinWu/DL_CVMarathon/tree/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_010_HW_Output) |
 
-## 電腦視覺深度學習基礎      
-   
+## 電腦視覺深度學習基礎    
+
+參考讀物:   
+- [深度學習：CNN原理](https://medium.com/@CinnamonAITaiwan/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-cnn%E5%8E%9F%E7%90%86-keras%E5%AF%A6%E7%8F%BE-432fd9ea4935)
+
 | 主題 | 作業 | 重點&相關專有名詞 |
-| ---------- | :-----------: | :-----------: | 
+| ---------- | ----------- | :----------- | 
 | [*卷積層( Convolution Layer )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_011.pdf) | [Day_011_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_011_HW.ipynb) | Filter、Kernel、特徵接受域(Receptive Field)、<br>  特徵圖(Feature Map)、權值共享(Shared Weights and Biases) |
-| [*步長( Strides ) &  填充( Padding )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_012.pdf) | [Day_012_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_012_HW.ipynb) | padding='Valid' 表示對特徵圖周圍不補值 <br> padding='Same' 表示對特徵圖周圍補值 |
+| [*步長( Strides ) &  填充( Padding )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_012.pdf) | [Day_012_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_012_HW.ipynb) | padding='valid' 表示對特徵圖周圍不補值 <br> padding='same' 表示對特徵圖周圍補值 |
+| [*池化( Pooling ) &  全連接層( Fully Connected Layer )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_012.pdf) | [Day_013_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_013_HW.ipynb) | - 池化層 : 用以提取特徵、降低特徵圖的尺寸，以降低運算量且加速收斂； <br> - 攤平(Flatten) : 用以銜接卷積層與全連接層； <br> - 全連接層 : 卷積神經網絡的輸出層，主要作為預測各類別機率的分類器。 |
 
 
 
