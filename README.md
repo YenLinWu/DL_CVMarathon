@@ -17,10 +17,10 @@
 
 ## 電腦視覺深度學習基礎      
    
-| 主題 | 作業 | 相關專有名詞 |
+| 主題 | 作業 | 重點&相關專有名詞 |
 | ---------- | :-----------: | :-----------: | 
 | [*卷積層( Convolution Layer )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_011.pdf) | [Day_011_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_011_HW.ipynb) | Filter、Kernel、特徵接受域(Receptive Field)、<br>  特徵圖(Feature Map)、權值共享(Shared Weights and Biases) |
-
+| [*步長( Strides ) &  填充( Padding )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_012.pdf) | [Day_012_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_012_HW.ipynb) | padding='Valid' 表示對特徵圖周圍不補值 <br> padding='Same' 表示對特徵圖周圍補值 |
 
 
 
