@@ -27,7 +27,7 @@
 | [*步長( Strides ) &  填充( Padding )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_012.pdf) | [Day_012_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_012_HW.ipynb) | padding='valid' 表示對特徵圖周圍不補值 <br> padding='same' 表示對特徵圖周圍補值 |
 | [*池化( Pooling ) &  全連接層( Fully Connected Layer )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_013.pdf) | [Day_013_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_013_HW.ipynb) | - 池化層 : 用以提取特徵、降低特徵圖的尺寸，以降低運算量且加速收斂； <br> - 攤平(Flatten) : 用以銜接卷積層與全連接層； <br> - 全連接層 : 卷積神經網絡的輸出層，主要作為預測各類別機率的分類器。 |
 | [*Batch Normalization*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_014.pdf) | [Day_014_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_014_HW.ipynb) | 梯度消失問題（Vanishing Gradient Problem）、激活函數(Activation Function) |
-
+| [*建構及訓練 CNN 模型*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_015.pdf) | [Day_015_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_015_HW.ipynb) |  |
 
 
 
