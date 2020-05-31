@@ -18,7 +18,8 @@
 ## 電腦視覺深度學習基礎    
 
 參考讀物:   
-- [深度學習：CNN原理](https://medium.com/@CinnamonAITaiwan/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-cnn%E5%8E%9F%E7%90%86-keras%E5%AF%A6%E7%8F%BE-432fd9ea4935)
+- [深度學習：CNN原理](https://medium.com/@CinnamonAITaiwan/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-cnn%E5%8E%9F%E7%90%86-keras%E5%AF%A6%E7%8F%BE-432fd9ea4935)  
+- [Understanding and Calculating the number of Parameters in Convolution Neural Networks](https://towardsdatascience.com/understanding-and-calculating-the-number-of-parameters-in-convolution-neural-networks-cnns-fc88790d530d)
 
 | 主題 | 作業 | 重點&相關專有名詞 |
 | ---------- | ----------- | :----------- | 
