@@ -22,7 +22,9 @@
 - [Understanding and Calculating the number of Parameters in Convolution Neural Networks](https://towardsdatascience.com/understanding-and-calculating-the-number-of-parameters-in-convolution-neural-networks-cnns-fc88790d530d)   
 - [CNN入門-圖像增強](https://medium.com/@CinnamonAITaiwan/cnn%E5%85%A5%E9%96%80-%E5%9C%96%E5%83%8F%E5%A2%9E%E5%BC%B7-fa654d36dafc)   
 - [關於圖像語義分割的總結和感悟](https://www.itread01.com/articles/1476698476.html)   
-- [Exploring ZCA and color image whitening](https://www.kaggle.com/nicw102168/exploring-zca-and-color-image-whitening)   
+- [Exploring ZCA and color image whitening](https://www.kaggle.com/nicw102168/exploring-zca-and-color-image-whitening)    
+- [Activation Functions Explained - GELU, SELU, ELU, ReLU and more](https://mlfromscratch.com/activation-functions-explained/#/)   
+- [Activation Functions in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)   
 
 
 | 主題 | 作業 | 重點&相關專有名詞 |
@@ -33,7 +35,8 @@
 | [*Batch Normalization*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_014.pdf) | [Day_014_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_014_HW.ipynb) | 梯度消失問題（Vanishing Gradient Problem）、激活函數(Activation Function) |
 | [*建構及訓練 CNN 模型*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_015.pdf) | [Day_015_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_015_HW.ipynb) |  |
 | [*圖像增強( Image Augmentation )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_016.pdf) | [Day_016_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_016_HW.ipynb) | [圖像處理-圖像白化](https://kknews.cc/zh-tw/photography/3v5r8bg.html)、[Zero-phase Component Analysis Whitening(ZCA Whitening)](https://www.twblogs.net/a/5b7e231c2b717768385582bf)、[語義分割(Semantic Segmentation)](https://kknews.cc/zh-tw/tech/mgqvl9.html) |
-
+| [*CNN 的演進 - leNet、AlexNet、VGG*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_017.pdf) | [Day_018_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_018_HW.ipynb) | [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)、[AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)、[VGG](https://arxiv.org/pdf/1409.1556.pdf)、Inception、ResNet、Dropout |
+| [*CNN 的演進 - Inception、ResNet*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_019.pdf) | [Day_019_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_019_HW.ipynb) | LeNet、AlexNet、VGG、Inception、ResNet、Dropout |
 
 
 
