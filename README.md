@@ -39,7 +39,8 @@
 | [*CNN 的演進 - Inception*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_019.pdf) | [Day_019_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_019_HW.ipynb) | 1x1 Kernel |
 | [*CNN 的演進 - ResNet*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_020.pdf) | [Day_020_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_020_HW.ipynb) | [Residual Block](https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec) : 可降低梯度消失發生的可能性 |
 | [*遷移式學習( Transfer Learning )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_021.pdf) | [Day_021_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_021_HW.ipynb) |  |
-| [*CNN 驗證識別碼*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_022.pdf) | [Day_022_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_022_HW.ipynb) |  |
+| [*實作: CNN 驗證識別碼*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_022.pdf) | [Day_022_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_022_HW.ipynb) | [卷積循環神經網絡(Convolutional Recurrent Neural Network, CRNN)](https://arxiv.org/abs/1507.05717)、[Connectionist Temporal Classification(CTC)](https://www.itread01.com/content/1548035491.html)  |
+
 
 
 
