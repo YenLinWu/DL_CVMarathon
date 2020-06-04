@@ -46,7 +46,7 @@
 | 主題 | 作業 | 重點&相關專有名詞 |
 | ---------- | ----------- | :----------- | 
 | [*物件偵測( Object Detection )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_023.pdf) |  | - 同時學習「定位(Bounding Box Regression)」與「分類(Classification)」 <br> - One Stage、Two Stage <br> - 候選區域(Region Proposal) <br> - [R-CNN](https://mc.ai/%E7%B0%A1%E4%BB%8B-r-cnn-region-based-cnn/) |
-| [*物件偵測( Object Detection )的演進*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_024.pdf) | [Day_024_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_024_HW.ipynb) | - [RPN(Region Proposal Network)](https://kknews.cc/zh-tw/tech/5xj95y6.html)、YOLO(You Only Look Once)、SSD(Single Shot Multibox Dectector)、RetinaNet |
+| [*物件偵測( Object Detection )的演進*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_024.pdf) |  | [RPN(Region Proposal Network)](https://kknews.cc/zh-tw/tech/5xj95y6.html)、YOLO(You Only Look Once)、SSD(Single Shot Multibox Dectector)、RetinaNet |
 
 
 
