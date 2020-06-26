@@ -43,11 +43,18 @@
 
 ## CNN 應用案例    
 
+論文:  
+- [Region Proposal Network(RPN)](https://arxiv.org/pdf/1506.01497.pdf)
+
+參考讀物:   
+- [階層式分群法 Clustering: Hierarchical Clustering](https://mropengate.blogspot.com/2015/06/ai-ch17-6-clustering-hierarchical.html)   
+- [Hierarchical Clustering — Agglomerative Clustering](https://medium.com/ai-academy-taiwan/clustering-method-4-ed927a5b4377)   
+
 | 主題 | 作業 | 重點&相關專有名詞 |
 | ---------- | ----------- | :----------- | 
 | [*物件偵測( Object Detection )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_023.pdf) |  | - 同時學習「定位(Bounding Box Regression)」與「分類(Classification)」 <br> - Two Stage : Selective Search、候選區域(Region Proposal)、階層群聚演算法(Hierarchical Grouping Algorithm) <br> - One Stage <br> - [R-CNN](https://mc.ai/%E7%B0%A1%E4%BB%8B-r-cnn-region-based-cnn/) |
 | [*物件偵測( Object Detection )的演進*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_024.pdf) |  | [RPN(Region Proposal Network)](https://kknews.cc/zh-tw/tech/5xj95y6.html)、YOLO(You Only Look Once)、SSD(Single Shot Multibox Dectector)、RetinaNet、Focal Loss |
-| [*IOU( Intersection over Union )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_025.pdf) | [Day_025_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_025_HW.ipynb) |  |
+| [*IOU( Intersection over Union )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_025.pdf) | [Day_025_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_025_HW.ipynb) | [非極大值抑制(Non Maximum Suppression)](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC-non-maximum-suppression-nms-aa70c45adffa) |
 | [*RPN( Region Proposal Network )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_026.pdf) | [Day_026_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_026_HW.ipynb) | High Recall、End-to-End Model |
 
 
