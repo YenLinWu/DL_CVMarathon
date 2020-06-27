@@ -56,6 +56,7 @@
 | [*物件偵測( Object Detection )的演進*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_024.pdf) |  | [RPN(Region Proposal Network)](https://kknews.cc/zh-tw/tech/5xj95y6.html)、YOLO(You Only Look Once)、SSD(Single Shot Multibox Dectector)、RetinaNet、Focal Loss |
 | [*IOU( Intersection over Union )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_025.pdf) | [Day_025_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_025_HW.ipynb) | [非極大值抑制(Non Maximum Suppression)](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC-non-maximum-suppression-nms-aa70c45adffa) |
 | [*RPN( Region Proposal Network )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_026.pdf) | [Day_026_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_026_HW.ipynb) | High Recall、End-to-End Model |
+| [*Bounding Box Regression*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_027.pdf) | [Day_027_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_027_HW.ipynb) | High Recall、End-to-End Model |
 
 
 
