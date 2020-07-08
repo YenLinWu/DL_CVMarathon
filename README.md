@@ -58,7 +58,7 @@
 | [*RPN( Region Proposal Network )*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_026.pdf) | [Day_026_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_026_HW.ipynb) | High Recall、End-to-End Model |
 | [*Bounding Box Regression*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_027.pdf) | [Day_027_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_027_HW.ipynb) | [Smooth L1 Loss](https://stats.stackexchange.com/questions/351874/how-to-interpret-smooth-l1-loss) |
 | [*Non Maximum Suppression*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_028.pdf) | [Day_028_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_028_HW.ipynb) |  |
-
+| [*SSD(Single Shot Multibox Dectector)程式導讀與實作*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_029-031.pdf) | [Day_029-031_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_029-031_HW.ipynb) |  |
 
 
 
