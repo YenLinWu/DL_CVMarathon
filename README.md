@@ -48,7 +48,8 @@
 
 參考讀物:   
 - [階層式分群法 Clustering: Hierarchical Clustering](https://mropengate.blogspot.com/2015/06/ai-ch17-6-clustering-hierarchical.html)   
-- [Hierarchical Clustering — Agglomerative Clustering](https://medium.com/ai-academy-taiwan/clustering-method-4-ed927a5b4377)   
+- [Hierarchical Clustering — Agglomerative Clustering](https://medium.com/ai-academy-taiwan/clustering-method-4-ed927a5b4377)    
+- [Non Maximum Suppression](https://zh.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH)
 
 | 主題 | 作業 | 重點&相關專有名詞 |
 | ---------- | ----------- | :----------- | 
@@ -59,7 +60,7 @@
 | [*Bounding Box Regression*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_027.pdf) | [Day_027_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_027_HW.ipynb) | [Smooth L1 Loss](https://stats.stackexchange.com/questions/351874/how-to-interpret-smooth-l1-loss) |
 | [*Non Maximum Suppression*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_028.pdf) | [Day_028_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_028_HW.ipynb) |  |  
 | [*SSD(Single Shot Multibox Dectector)程式導讀與實作*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_029-031.pdf) | [Day_029-031_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_029-031_HW.ipynb) |  |
-| [*YOLO(Tou Only Look Once)簡介*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_032.pdf) | [Day_032_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_032_HW.ipynb) |  |  
-| [*YOLO(Tou Only Look Once)演算法 - 網絡輸出的後處理*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_033.pdf) | [Day_033_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_033_HW.ipynb) |  |
+| [*YOLO(Tou Only Look Once)簡介*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_032.pdf) | [Day_032_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_032_HW.ipynb) | YOLO V1 每個 Grid Cell 僅預測一個物件 |  
+| [*YOLO(Tou Only Look Once)演算法 - 網絡輸出的後處理*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_033.pdf) | [Day_033_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_033_HW.ipynb) | 非極大值抑制(Non Maximum Suppression, NMS) |
 | [*YOLO(Tou Only Look Once)演算法 - 損失函數*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_034.pdf) | [Day_034_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_034_HW.ipynb) |  |
 
