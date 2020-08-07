@@ -49,7 +49,8 @@
 參考讀物:   
 - [階層式分群法 Clustering: Hierarchical Clustering](https://mropengate.blogspot.com/2015/06/ai-ch17-6-clustering-hierarchical.html)   
 - [Hierarchical Clustering — Agglomerative Clustering](https://medium.com/ai-academy-taiwan/clustering-method-4-ed927a5b4377)    
-- [Non Maximum Suppression](https://zh.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH)
+- [Non Maximum Suppression](https://zh.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH)  
+- [卷積神經網路(Convolutional neural network, CNN): 1×1卷積計算在做什麼](https://medium.com/@chih.sheng.huang821/%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-convolutional-neural-network-cnn-1-1%E5%8D%B7%E7%A9%8D%E8%A8%88%E7%AE%97%E5%9C%A8%E5%81%9A%E4%BB%80%E9%BA%BC-7d7ebfe34b8)
 
 | 主題 | 作業 | 重點&相關專有名詞 |
 | ---------- | ----------- | :----------- | 
@@ -64,4 +65,4 @@
 | [*YOLO(Tou Only Look Once)演算法 - 網絡輸出的後處理*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_033.pdf) | [Day_033_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_033_HW.ipynb) | 非極大值抑制(Non Maximum Suppression, NMS) |
 | [*YOLO(Tou Only Look Once)演算法 - 損失函數*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_034.pdf) | [Day_034_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_034_HW.ipynb) |  |
 | [*YOLO(Tou Only Look Once)演算法 - 網絡架構*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_036.pdf) | [Day_036_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_036_HW.ipynb) | 以 GoogLeNet 為核心 <br> 1X1 Kernel |
-| [*YOLO(Tou Only Look Once)演算法 - 網絡架構程式碼解讀*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_037.pdf) | [Day_037_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_037_HW.ipynb) |  |
+| [*YOLO(Tou Only Look Once)演算法 - 網絡架構程式碼解讀*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_037.pdf) | [Day_037_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_037_HW_(in%20Colab).ipynb) |  |
