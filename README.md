@@ -66,5 +66,10 @@
 | [*YOLO(You Only Look Once)演算法 - 損失函數*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_034.pdf) | [Day_034_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_034_HW.ipynb) |  |
 | [*YOLO(You Only Look Once)演算法 - 網絡架構*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_036.pdf) | [Day_036_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_036_HW.ipynb) | 以 GoogLeNet 為核心 <br> 1X1 Kernel |
 | [*YOLO(You Only Look Once)演算法 - 網絡架構程式碼解讀*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_037.pdf) | [Day_037_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_037_HW_(in%20Colab).ipynb) |  |  
-| [*YOLO(You Only Look Once)演算法的演進*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_038.pdf) |  |  |  
+| [*YOLO(You Only Look Once)演算法的演進*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_038.pdf) |  |  |   
+| [*YOLO(You Only Look Once) V3 圖片物件偵測實作*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_039.pdf) | [Day_039_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_039_HW_(in%20Colab).ipynb)  |  | 
+| [*YOLO V3 - Tiny*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_040.pdf) | [Day_040_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_040_HW_(in%20Colab).ipynb)  | Frame Per Second(FPS) | 
+
+
+
 
