@@ -51,6 +51,8 @@
 - [Hierarchical Clustering — Agglomerative Clustering](https://medium.com/ai-academy-taiwan/clustering-method-4-ed927a5b4377)    
 - [Non Maximum Suppression](https://zh.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH)  
 - [卷積神經網路(Convolutional neural network, CNN): 1×1卷積計算在做什麼](https://medium.com/@chih.sheng.huang821/%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-convolutional-neural-network-cnn-1-1%E5%8D%B7%E7%A9%8D%E8%A8%88%E7%AE%97%E5%9C%A8%E5%81%9A%E4%BB%80%E9%BA%BC-7d7ebfe34b8)  
+- [How are 1x1 convolutions the same as a fully connected layer?](https://datascience.stackexchange.com/questions/12830/how-are-1x1-convolutions-the-same-as-a-fully-connected-layer?newreg=6c118960b26c474fae9403d06ecd831b)   
+- [What does 1x1 convolution mean in a neural network?](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network)  
 - [建立自己的YOLO辨識模型 – 以柑橘辨識為例](https://chtseng.wordpress.com/2018/09/01/%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84yolo%E8%BE%A8%E8%AD%98%E6%A8%A1%E5%9E%8B-%E4%BB%A5%E6%9F%91%E6%A9%98%E8%BE%A8%E8%AD%98%E7%82%BA%E4%BE%8B/)  
 
 | 主題 | 作業 | 重點&相關專有名詞 |
