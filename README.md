@@ -70,7 +70,7 @@
 | [*YOLO(You Only Look Once)演算法的演進*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_038.pdf) |  |  |   
 | [*YOLO(You Only Look Once) V3 圖片物件偵測實作*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_039.pdf) | [Day_039_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_039_HW_(in%20Colab).ipynb)  |  | 
 | [*Tiny YOLO V3*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_040.pdf) | [Day_040_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_040_HW_(in%20Colab).ipynb)  | Frame Per Second(FPS) | 
-| [*YOLO V3*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_041.pdf) | [Day_041_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_041_HW_(in%20Colab).ipynb)  |  | 
+| [*訓練 YOLO V3*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_041.pdf) | [Day_041_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_041_HW_(in%20Colab).ipynb)  |  | 
 
 
 
