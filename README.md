@@ -75,11 +75,15 @@
 | [*訓練 YOLO V3*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_041.pdf) | [Day_041_HW 訓練模型](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_041_HW_(in%20Colab)_TrainingModel.ipynb) <br> [Day_041_HW 使用模型](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_041_HW_(in%20Colab).ipynb) |  | 
 
 ## 電腦視覺深度學習實戰   
+
+參考資源:   
+- [Browse State-of-the-Art](https://paperswithcode.com/sota)   
   
 | 主題 | 作業 | 重點&相關專有名詞 |
 | ---------- | ----------- | :----------- | 
-| [*人臉關鍵點檢測 - 資料結構簡介*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_042.pdf) | [Day_042_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_042_HW_(in%20Colab).ipynb) |  |  
-| [*人臉關鍵點檢測 - 神經網絡架構*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_043.pdf) | [Day_043_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_043_HW_(in%20Colab).ipynb) |  |  
-| [*人臉關鍵點檢測 - 模型訓練*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_043.pdf) | [Day_044_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_044_HW_(in%20Colab).ipynb) |  |  
+| [*人臉關鍵點檢測(Facial Keypoints Detection) - 資料結構簡介*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_042.pdf) | [Day_042_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_042_HW_(in%20Colab).ipynb) |  |  
+| [*人臉關鍵點檢測(Facial Keypoints Detection) - 神經網絡架構*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_043.pdf) | [Day_043_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_043_HW_(in%20Colab).ipynb) |  |  
+| [*人臉關鍵點檢測(Facial Keypoints Detection) - 模型訓練*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_044.pdf) | [Day_044_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_044_HW_(in%20Colab).ipynb) |  |  
+| [*人臉關鍵點檢測(Facial Keypoints Detection)的應用*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_045.pdf) | [Day_045_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_045_HW_(in%20Colab).ipynb) |  |  
 
 
