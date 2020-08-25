@@ -78,6 +78,7 @@
 
 參考資源:   
 - [Browse State-of-the-Art](https://paperswithcode.com/sota)   
+-[Training Tensorflow for free: Pet Object Detection API Sample Trained On Google Colab](https://medium.com/@moshe.livne/training-tensorflow-for-free-pet-object-detection-api-sample-trained-on-google-collab-c2e65f4a9949)
   
 | 主題 | 作業 | 重點&相關專有名詞 |
 | ---------- | ----------- | :----------- | 
@@ -87,6 +88,6 @@
 | [*人臉關鍵點檢測(Facial Keypoints Detection)的應用*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_045.pdf) | [Day_045_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_045_HW_(in%20Colab).ipynb) |  |  
 | [*MobileNet*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_046.pdf) | [Day_046_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_046_HW_(in%20Colab).ipynb) |  |  
 | [*MobileNet V2*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_047.pdf) | [Day_047_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_047_HW_(in%20Colab).ipynb) |  |  
-
+| [*Tensorflow Object Detection API*](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E5%AD%B8%E7%BF%92%E8%B3%87%E6%96%99/Day_048.pdf) | [Day_048_HW](https://github.com/YenLinWu/DL_CVMarathon/blob/master/%E6%AF%8F%E6%97%A5%E4%BD%9C%E6%A5%AD/Day_048_HW_(in%20Colab).ipynb) |  |  
 
 
