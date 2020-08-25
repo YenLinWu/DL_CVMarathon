@@ -78,7 +78,7 @@
 
 參考資源:   
 - [Browse State-of-the-Art](https://paperswithcode.com/sota)   
--[Training Tensorflow for free: Pet Object Detection API Sample Trained On Google Colab](https://medium.com/@moshe.livne/training-tensorflow-for-free-pet-object-detection-api-sample-trained-on-google-collab-c2e65f4a9949)
+- [Training Tensorflow for free: Pet Object Detection API Sample Trained On Google Colab](https://medium.com/@moshe.livne/training-tensorflow-for-free-pet-object-detection-api-sample-trained-on-google-collab-c2e65f4a9949)
   
 | 主題 | 作業 | 重點&相關專有名詞 |
 | ---------- | ----------- | :----------- | 
